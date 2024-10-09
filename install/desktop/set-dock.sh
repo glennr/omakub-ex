@@ -16,6 +16,7 @@ apps=(
 	"Docker.desktop"
 	"Omakub.desktop"
 	"1password.desktop"
+	"KeePassXC.desktop"
 	"org.gnome.Settings.desktop"
 	"org.gnome.Nautilus.desktop"
 	"localsend_app.desktop"

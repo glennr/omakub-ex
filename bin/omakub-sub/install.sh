@@ -6,6 +6,7 @@ CHOICES=(
 	"Brave         Chrome-based browser with built-in ad blocking"
 	"Doom Emacs    Emacs framework with curated list of packages"
 	"Dropbox       Sync files across computers with ease"
+	"KeePassXC     Securely manage your passwords on your own device"
 	"OBS Studio    Record screencasts with inputs from both display + webcam"
 	"Ollama        Run LLMs, like Meta's Llama3, locally"
 	"RubyMine      IntelliJ's commercial Ruby editor"
