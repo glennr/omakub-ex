@@ -6,6 +6,8 @@ apps=(
 	"code.desktop"
 	"WhatsApp.desktop"
 	"signal-desktop.desktop"
+	"signal-desktop.desktop"
+	"slack-desktop.desktop"
 	"Zoom.desktop"
 	"spotify.desktop"
 	"steam.desktop"

@@ -9,6 +9,7 @@ CHOICES=(
 	"OBS Studio    Record screencasts with inputs from both display + webcam"
 	"Ollama        Run LLMs, like Meta's Llama3, locally"
 	"RubyMine      IntelliJ's commercial Ruby editor"
+	"Slack         Team chat"
 	"Spotify       Stream music from the world's most popular service"
 	"Steam         Play games from Valve's store"
 	"VirtualBox    Virtual machines to run Windows/Linux"
