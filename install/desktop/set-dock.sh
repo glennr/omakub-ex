@@ -9,7 +9,6 @@ apps=(
 	"Zoom.desktop"
 	"spotify.desktop"
 	"steam.desktop"
-	"pinta_pinta.desktop"
 	"md.obsidian.Obsidian.desktop"
 	"Activity.desktop"
 	"Docker.desktop"
