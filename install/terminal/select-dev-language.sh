@@ -30,6 +30,7 @@ if [[ -n "$languages" ]]; then
 			mise use --global python@latest
 			;;
 		Elixir)
+      export KERL_CONFIGURE_OPTIONS="--without-wx --without-javac"
 			mise use --global erlang@latest
 			mise use --global elixir@latest
 			mise x elixir -- mix local.hex --force
