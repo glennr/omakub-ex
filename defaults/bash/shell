@@ -1,6 +1,6 @@
 # History control
 shopt -s histappend
-HISTCONTROL=ignoreboth
+HISTCONTROL=ignoreboth:erasedups
 HISTSIZE=32768
 HISTFILESIZE="${HISTSIZE}"
 
