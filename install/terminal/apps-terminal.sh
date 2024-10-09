@@ -9,4 +9,6 @@ sudo apt install -y \
   apache2-utils \
   fd-find \
   tldr \
-  inotify-tools
+  inotify-tools \
+  make \
+  gawk
