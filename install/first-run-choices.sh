@@ -1,4 +1,4 @@
-OPTIONAL_APPS=("1password" "Spotify" "Zoom" "Dropbox" "Slack", "KeePassXC")
+OPTIONAL_APPS=("1password" "Spotify" "Zoom" "Dropbox" "Slack" "KeePassXC")
 DEFAULT_OPTIONAL_APPS='Spotify,Zoom,Slack,KeePassXC'
 export OMAKUB_FIRST_RUN_OPTIONAL_APPS=$(gum choose "${OPTIONAL_APPS[@]}" --no-limit --selected $DEFAULT_OPTIONAL_APPS --height 7 --header "Select optional apps" | tr ' ' '-')
 
